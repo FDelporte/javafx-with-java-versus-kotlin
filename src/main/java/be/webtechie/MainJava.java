@@ -34,7 +34,7 @@ public class MainJava extends Application {
         exitButton.setOnAction((event) -> Platform.exit());
         borderPane.setCenter(exitButton);
 
-        var scene = new Scene(borderPane, 1024.0, 800.0);
+        var scene = new Scene(borderPane, 600, 400);
         stage.setScene(scene);
         stage.setTitle("Demo application");
         stage.show();

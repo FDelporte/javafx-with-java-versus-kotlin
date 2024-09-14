@@ -35,7 +35,7 @@ class MainKotlin : Application() {
                         Platform.exit()
                     }
                 }
-            }, 1024.0, 800.0)
+            }, 600.0, 400.0)
 
             title = "Demo application"
 
