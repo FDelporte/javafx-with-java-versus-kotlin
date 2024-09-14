@@ -1,6 +1,8 @@
 # Example project JavaFX code in Java versus Kotlin
 
-Shows the same basic user interface with a BorderPane, buttons, etc. to be able to compare the code structure in Java versus Kotlin.
+Shows the same basic user interface with a BorderPane, Buttons, etc. to be able to compare the code structure in Java versus Kotlin.
+
+![](screenshot/app-window.png)
 
 ## Executing the application
 
